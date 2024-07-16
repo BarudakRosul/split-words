@@ -1,7 +1,7 @@
 {
   "name": "@barudakrosul/split-words",
   "version": "0.0.1",
-  "description": "Splits a string into an array by words (whitespace)",
+  "description": "Splits a string into an array of words based on whitespace and hyphenation rules",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
