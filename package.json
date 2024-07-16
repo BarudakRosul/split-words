@@ -1,0 +1,40 @@
+{
+  "name": "@barudakrosul/split-words",
+  "version": "0.0.1",
+  "description": "Splits a string into an array by words (whitespace)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarudakRosul/split-words.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "keywords": [
+    "split",
+    "split-word",
+    "words",
+    "array"
+  ],
+  "author": "Barudak Rosul",
+  "license": "Apache-2.0",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=11"
+  },
+  "bugs": {
+    "url": "https://github.com/BarudakRosul/split-words/issues"
+  },
+  "homepage": "https://github.com/BarudakRosul/split-words#readme",
+  "funding": {
+    "url": "https://ko-fi.com/barudakrosul"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.5.2"
+  }
+}
